@@ -1,0 +1,11 @@
+.detailItem {
+    background-color: white;
+    border-radius: 12px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+}
